@@ -10,4 +10,4 @@ The minimum required test accuracy for the first part was 20% and 60% for the se
 
 For the CNN built from scratch, I was able to get a test accuracy of %31. For the CNN built utilizing a vgg16 pre-trained model, I got %74 test accuracy. 
 
-The details of the design, architecture, training, and testing are all included in the project's Jupyter notebook. The workspace-utils.py is a script to keep the workspace from automatically disconnecting during training
+The details of the design, architecture, training, and testing are all included in the project's Jupyter notebook. The workspace-utils.py is a script to keep the workspace from automatically disconnecting during training. 

@@ -9,3 +9,9 @@ The projects I worked on during the program are as follows(to be updated as I fi
   
 ## 2) Landmark Classification & Tagging for Social Media
   Designing a convolutional neural network from scratch, as well as utilizing transfer-learning, trained on images of a number of landmarks, to recognize those landmarks from different testing images.
+
+## 3) Generate TV Script
+  Designing an RNN to generate a "fake" TV script trained on scripts of Seinfeld episodes. 
+  
+## 4) Generate Faces
+  Designing a DCGAN trained on images of real faces to generate a set of "fake" faces

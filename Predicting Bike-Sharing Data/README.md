@@ -1,4 +1,4 @@
-# Predicting Bike-Sharing Data
+## Predicting Bike-Sharing Data
 
 In this project, we approached a prediction problem on bike-sharing usage data to predict daily rental numbers using a fully connected neural network built from scratch.
 

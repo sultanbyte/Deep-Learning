@@ -1,6 +1,6 @@
-# Landmark Classification & Tagging for Social Media
+## Landmark Classification & Tagging for Social Media
 
-## In this project, we had three distinct parts: 
+### In this project, we had three distinct parts: 
 
 1) CNN classifier from scratch for landmarks
 2) CNN classifier built using transfer learning for landmarks
